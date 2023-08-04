@@ -1,0 +1,32 @@
+body{
+    background-color: gray;
+}
+.FormBox{
+    width: 400px;
+    height: 410px;
+    background-color: cadetblue;
+}
+
+.input{
+  border-radius: 2%;
+}
+.form{
+   
+    margin-left: 75px;
+}
+
+h1{
+    margin-left: 75px;
+    padding-top: 20px;
+}
+.submit{
+    background-color: grey;
+    color: white;
+    width: 100px;
+    height: 40px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.submit:hover{
+    background-color: blueviolet;
+}
